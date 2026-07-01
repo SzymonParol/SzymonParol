@@ -32,6 +32,7 @@ For the past two years, I've been working as a **Junior Media Engineer**, where 
 - **Raspberry Pico**
 - **Fusion 360**
 - **Autodesk Inventor**
+- **SDVI Rally**
 
 ### Other Skills
 - Programming and firmware development for microcontrollers and computers
